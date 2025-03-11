@@ -1,0 +1,17 @@
+streamlit
+numpy
+torch
+psutil
+tempfile
+nltk
+whisper
+json
+re
+transformers
+pydub
+scikit-learn
+spacy
+librosa
+scipy
+altair
+pandas
